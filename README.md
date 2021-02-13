@@ -7,6 +7,12 @@
   <li> <a href="https://medium.com/swlh/2021-js-fullstack-web-developer-roadmap-part1-d86ac51d5c39"> <p>📝 2021 JS Fullstack Web Developer Roadmap </p> </a> </li>
   <li> <a href="https://youtu.be/kBT90nwUb_o"> <p>🎬 Learn SVG through 24 examples </p> </a> </li>
   <li> <a href="https://techjasmine.com/best-web-development-tutorials-on-youtube/"> <p>📝🎬 Best Web Development Tutorials on YouTube </p> </a> </li>
+  <li> <a href="https://youtu.be/NsQ2QIrQShU"> <p>🎬 Async/Await: Modern Concurrency In JavaScript </p> </a> </li>
+  <li> <a href="https://youtu.be/r9HdJ8P6GQI"> <p>🎬 JavaScript Testing Introduction Tutorial - Unit Tests, Integration Tests & e2e Tests </p> </a> </li>
+  <li> <a href="https://youtu.be/tc8DU14qX6I"> <p>🎬 fetch() - Working With Data & APIs in JavaScript </p> </a> </li>
+  <li> <a href="https://youtu.be/mr9Mtm_TRpw"> <p>🎬 An Intro To Electron - Desktop Apps with JavaScript </p> </a> </li>
+  <li> <a href="https://youtu.be/kN1Czs0m1SU"> <p>🎬 Build an Electron App in Under 60 Minutes </p> </a> </li>
+  <li> <a href="https://youtu.be/2OHbjep_WjQ"> <p>🎬 Learn Angular - Full Tutorial Course </p> </a> </li>
 </ul>
 
 <h2> Neural networks </h2>
@@ -73,4 +79,10 @@
   <li> <a href="https://projectlearn.io"> <p>📝🎬 Web, Mobile dev, Game dev, Machine Learning, AI (projectlearn.io)  </p> </a> </li>
   <li> <a href="https://github.com/rby90/Project-Based-Tutorials-in-C"> <p>📝 Project Based Tutorials in C </p> </a> </li>
   <li> <a href="https://github.com/tuvtran/project-based-learning"> <p>📝 Project Based Learning, huge github list </p> </a> </li>
+  <li> <a href="https://youtu.be/m_u6P5k0vP0"> <p>🎬 Full Stack React & Firebase Tutorial - Build a social media app </p> </a> </li>
+  <li> <a href="https://youtu.be/_xkSvufmjEs"> <p>🎬 Build and deploy a portfolio website </p> </a> </li>
+  <li> <a href="https://youtu.be/3PHXvlpOkf4"> <p>🎬 Build 15 JavaScript Projects - Vanilla JavaScript Course </p> </a> </li>
+  <li> <a href="https://youtu.be/023Psne_-_4"> <p>🎬 E-Commerce JavaScript Tutorial - Shopping Cart from Scratch </p> </a> </li>
+  <li> <a href="https://youtu.be/DKlTBBuc32c"> <p>🎬 Spring Boot and Angular Tutorial - Build a Reddit Clone </p> </a> </li>
+  <li> <a href="https://youtu.be/XGf2GcyHPhc"> <p>🎬 Learn Python by Building Five Games - Full Course </p> </a> </li>
 </ul
