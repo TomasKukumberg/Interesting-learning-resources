@@ -66,6 +66,7 @@
   <li> <a href="https://youtu.be/lLgVEvHYt-0"> <p>🎬 How to Master Recursion and Proficiency in Coding </p> </a> </li>
   <li> <a href="https://webtuu.com/blog/04/a-laymans-introduction-to-git"> <p>📝 A layman’s introduction to Git </p> </a> </li>
   <li> <a href="https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc"> <p>📝 Learn git concepts, not commands </p> </a> </li>
+  <li> <a href="Python Socket Programming Tutorial"> <p>🎬 Python Socket Programming Tutorial </p> </a> </li>
 </ul>
 
 <h2> Project based learning </h2>
