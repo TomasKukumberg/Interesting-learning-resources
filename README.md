@@ -31,6 +31,7 @@
   <li> <a href="https://gist.github.com/cellularmitosis/6e54ea6d0965bff16ac947c19bc06d3c"> <p>📝 A simple Snake game in C and SDL 1.2 </p> </a> </li>
   <li> <a href="https://slicker.me/javascript/tower.htm"> <p>📝 A JS tower game in ~100 lines </p> </a> </li>
   <li> <a href="https://www.youtube.com/watch?v=zH_omFPqMO4&list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr"> <p>🎬  Let's make 16 games in C++ and SFML </a> </li>
+  <li> <a href="https://youtu.be/pctGOMDW-HQ"> <p>🎬 TIMESTEPS and DELTA TIME EXPLAINED </a> </li>
 </ul>
 
 <h2> C++ Development Tutorial </h2>
