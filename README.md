@@ -16,6 +16,12 @@
   <li> <a href="https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript"> <p>📝 How to Create Native Drag and Drop Functionality in JavaScript </p> </a> </li>
 </ul>
 
+<h2> Databases </h2>
+
+<ul>
+  <li> <a href="https://firebasetutorials.com/firebase-database/?fbclid=IwAR0dLDVgQNp0m4DTkE-PR5kWxGh0Dczub4vmJhHBhH5k6EpX1txAgB_s58c"> <p>📘 How to Use Firebase Database on Android (Visual Guide) </p> </a> </li>
+</ul>
+
 <h2> Neural networks </h2>
 
 <ul>
