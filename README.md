@@ -13,6 +13,7 @@
   <li> <a href="https://youtu.be/mr9Mtm_TRpw"> <p>🎬 An Intro To Electron - Desktop Apps with JavaScript </p> </a> </li>
   <li> <a href="https://youtu.be/kN1Czs0m1SU"> <p>🎬 Build an Electron App in Under 60 Minutes </p> </a> </li>
   <li> <a href="https://youtu.be/2OHbjep_WjQ"> <p>🎬 Learn Angular - Full Tutorial Course </p> </a> </li>
+  <li> <a href="https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript"> <p>📝 How to Create Native Drag and Drop Functionality in JavaScript </p> </a> </li>
 </ul>
 
 <h2> Neural networks </h2>
